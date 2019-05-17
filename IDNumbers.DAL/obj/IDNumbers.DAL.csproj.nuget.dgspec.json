@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\cv\\bright house\\app\\api\\SAID-Validator-WebApi\\IDNumbers.DAL\\IDNumbers.DAL.csproj": {}
+    "C:\\Users\\User\\source\\review\\SA-ID-Validator.Web.Api\\IDNumbers.DAL\\IDNumbers.DAL.csproj": {}
   },
   "projects": {
-    "D:\\cv\\bright house\\app\\api\\SAID-Validator-WebApi\\IDNumber.Models\\IDNumber.Models.csproj": {
+    "C:\\Users\\User\\source\\review\\SA-ID-Validator.Web.Api\\IDNumber.Models\\IDNumber.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\cv\\bright house\\app\\api\\SAID-Validator-WebApi\\IDNumber.Models\\IDNumber.Models.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\review\\SA-ID-Validator.Web.Api\\IDNumber.Models\\IDNumber.Models.csproj",
         "projectName": "IDNumber.Models",
-        "projectPath": "D:\\cv\\bright house\\app\\api\\SAID-Validator-WebApi\\IDNumber.Models\\IDNumber.Models.csproj",
-        "packagesPath": "C:\\Users\\bbdnet1783\\.nuget\\packages\\",
-        "outputPath": "D:\\cv\\bright house\\app\\api\\SAID-Validator-WebApi\\IDNumber.Models\\obj\\",
+        "projectPath": "C:\\Users\\User\\source\\review\\SA-ID-Validator.Web.Api\\IDNumber.Models\\IDNumber.Models.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\source\\review\\SA-ID-Validator.Web.Api\\IDNumber.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\bbdnet1783\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -56,20 +56,20 @@
         }
       }
     },
-    "D:\\cv\\bright house\\app\\api\\SAID-Validator-WebApi\\IDNumbers.DAL\\IDNumbers.DAL.csproj": {
+    "C:\\Users\\User\\source\\review\\SA-ID-Validator.Web.Api\\IDNumbers.DAL\\IDNumbers.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\cv\\bright house\\app\\api\\SAID-Validator-WebApi\\IDNumbers.DAL\\IDNumbers.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\review\\SA-ID-Validator.Web.Api\\IDNumbers.DAL\\IDNumbers.DAL.csproj",
         "projectName": "IDNumbers.DAL",
-        "projectPath": "D:\\cv\\bright house\\app\\api\\SAID-Validator-WebApi\\IDNumbers.DAL\\IDNumbers.DAL.csproj",
-        "packagesPath": "C:\\Users\\bbdnet1783\\.nuget\\packages\\",
-        "outputPath": "D:\\cv\\bright house\\app\\api\\SAID-Validator-WebApi\\IDNumbers.DAL\\obj\\",
+        "projectPath": "C:\\Users\\User\\source\\review\\SA-ID-Validator.Web.Api\\IDNumbers.DAL\\IDNumbers.DAL.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\source\\review\\SA-ID-Validator.Web.Api\\IDNumbers.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\bbdnet1783\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,8 +82,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\cv\\bright house\\app\\api\\SAID-Validator-WebApi\\IDNumber.Models\\IDNumber.Models.csproj": {
-                "projectPath": "D:\\cv\\bright house\\app\\api\\SAID-Validator-WebApi\\IDNumber.Models\\IDNumber.Models.csproj"
+              "C:\\Users\\User\\source\\review\\SA-ID-Validator.Web.Api\\IDNumber.Models\\IDNumber.Models.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\review\\SA-ID-Validator.Web.Api\\IDNumber.Models\\IDNumber.Models.csproj"
               }
             }
           }

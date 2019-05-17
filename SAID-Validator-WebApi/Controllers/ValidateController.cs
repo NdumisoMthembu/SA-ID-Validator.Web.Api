@@ -47,7 +47,7 @@ namespace SAID_Validator_WebApi.Controllers
                 }
             }
 
-            //  _idNumberRepository.AddRange(numbers);
+              _idNumberRepository.AddRange(validIdNumbers);
         }
 
     }

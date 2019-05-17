@@ -7,3 +7,12 @@ D:\cv\bright house\app\api\SAID-Validator-WebApi\IDNumber.Models\obj\Debug\netst
 D:\cv\bright house\app\api\SAID-Validator-WebApi\IDNumber.Models\obj\Debug\netstandard2.0\IDNumber.Models.dll
 D:\cv\bright house\app\api\SAID-Validator-WebApi\IDNumber.Models\obj\Debug\netstandard2.0\IDNumber.Models.pdb
 D:\cv\bright house\app\api\SAID-Validator-WebApi\IDNumber.Models\obj\Debug\netstandard2.0\IDNumber.Models.csprojAssemblyReference.cache
+C:\Users\User\source\review\SA-ID-Validator.Web.Api\IDNumber.Models\bin\Debug\netstandard2.0\IDNumber.Models.deps.json
+C:\Users\User\source\review\SA-ID-Validator.Web.Api\IDNumber.Models\bin\Debug\netstandard2.0\IDNumber.Models.dll
+C:\Users\User\source\review\SA-ID-Validator.Web.Api\IDNumber.Models\bin\Debug\netstandard2.0\IDNumber.Models.pdb
+C:\Users\User\source\review\SA-ID-Validator.Web.Api\IDNumber.Models\obj\Debug\netstandard2.0\IDNumber.Models.csprojAssemblyReference.cache
+C:\Users\User\source\review\SA-ID-Validator.Web.Api\IDNumber.Models\obj\Debug\netstandard2.0\IDNumber.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\source\review\SA-ID-Validator.Web.Api\IDNumber.Models\obj\Debug\netstandard2.0\IDNumber.Models.AssemblyInfoInputs.cache
+C:\Users\User\source\review\SA-ID-Validator.Web.Api\IDNumber.Models\obj\Debug\netstandard2.0\IDNumber.Models.AssemblyInfo.cs
+C:\Users\User\source\review\SA-ID-Validator.Web.Api\IDNumber.Models\obj\Debug\netstandard2.0\IDNumber.Models.dll
+C:\Users\User\source\review\SA-ID-Validator.Web.Api\IDNumber.Models\obj\Debug\netstandard2.0\IDNumber.Models.pdb

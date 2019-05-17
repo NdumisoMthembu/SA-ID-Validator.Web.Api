@@ -26,9 +26,9 @@ namespace SAIDValidator.Web.Api.Helpers
 
         private static DateTime ParseDate(string date)
         {
-            string iDate = String.Format("{0}/{1}/19{2}", date.Substring(2, 2), date.Substring(4,2), date.Substring(0,2)); // to fix the year
-            DateTime.ParseExact(iDate, "dd/MM/yyyy", CultureInfo.InvariantCulture);
-            return Convert.ToDateTime(iDate);
+            string DOB = String.Format("{0}-{1}-19{2}", date.Substring(4, 2), date.Substring(2,2), date.Substring(0,2)); // to fix the year
+            var iDate = DateTime.ParseExact(DOB, "dd-MM-yyyy", CultureInfo.InvariantCulture);
+            return iDate;
         }
     }
 }

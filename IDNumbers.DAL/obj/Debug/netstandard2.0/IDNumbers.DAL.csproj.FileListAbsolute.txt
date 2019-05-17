@@ -10,3 +10,15 @@ D:\cv\bright house\app\api\SAID-Validator-WebApi\IDNumbers.DAL\obj\Debug\netstan
 D:\cv\bright house\app\api\SAID-Validator-WebApi\IDNumbers.DAL\bin\Debug\netstandard2.0\IDNumber.Models.dll
 D:\cv\bright house\app\api\SAID-Validator-WebApi\IDNumbers.DAL\bin\Debug\netstandard2.0\IDNumber.Models.pdb
 D:\cv\bright house\app\api\SAID-Validator-WebApi\IDNumbers.DAL\obj\Debug\netstandard2.0\IDNumbers.DAL.csproj.CopyComplete
+C:\Users\User\source\review\SA-ID-Validator.Web.Api\IDNumbers.DAL\bin\Debug\netstandard2.0\IDNumbers.DAL.deps.json
+C:\Users\User\source\review\SA-ID-Validator.Web.Api\IDNumbers.DAL\bin\Debug\netstandard2.0\IDNumbers.DAL.dll
+C:\Users\User\source\review\SA-ID-Validator.Web.Api\IDNumbers.DAL\bin\Debug\netstandard2.0\IDNumbers.DAL.pdb
+C:\Users\User\source\review\SA-ID-Validator.Web.Api\IDNumbers.DAL\bin\Debug\netstandard2.0\IDNumber.Models.dll
+C:\Users\User\source\review\SA-ID-Validator.Web.Api\IDNumbers.DAL\bin\Debug\netstandard2.0\IDNumber.Models.pdb
+C:\Users\User\source\review\SA-ID-Validator.Web.Api\IDNumbers.DAL\obj\Debug\netstandard2.0\IDNumbers.DAL.csprojAssemblyReference.cache
+C:\Users\User\source\review\SA-ID-Validator.Web.Api\IDNumbers.DAL\obj\Debug\netstandard2.0\IDNumbers.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\review\SA-ID-Validator.Web.Api\IDNumbers.DAL\obj\Debug\netstandard2.0\IDNumbers.DAL.AssemblyInfoInputs.cache
+C:\Users\User\source\review\SA-ID-Validator.Web.Api\IDNumbers.DAL\obj\Debug\netstandard2.0\IDNumbers.DAL.AssemblyInfo.cs
+C:\Users\User\source\review\SA-ID-Validator.Web.Api\IDNumbers.DAL\obj\Debug\netstandard2.0\IDNumbers.DAL.csproj.CopyComplete
+C:\Users\User\source\review\SA-ID-Validator.Web.Api\IDNumbers.DAL\obj\Debug\netstandard2.0\IDNumbers.DAL.dll
+C:\Users\User\source\review\SA-ID-Validator.Web.Api\IDNumbers.DAL\obj\Debug\netstandard2.0\IDNumbers.DAL.pdb
