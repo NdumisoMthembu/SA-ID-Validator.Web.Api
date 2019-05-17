@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\cv\\bright house\\app\\api\\SAID-Validator-WebApi\\IDNumbers.Models\\IDNumbers.Models.csproj": {}
+  },
+  "projects": {
+    "D:\\cv\\bright house\\app\\api\\SAID-Validator-WebApi\\IDNumbers.Models\\IDNumbers.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\cv\\bright house\\app\\api\\SAID-Validator-WebApi\\IDNumbers.Models\\IDNumbers.Models.csproj",
+        "projectName": "IDNumbers.Models",
+        "projectPath": "D:\\cv\\bright house\\app\\api\\SAID-Validator-WebApi\\IDNumbers.Models\\IDNumbers.Models.csproj",
+        "packagesPath": "C:\\Users\\bbdnet1783\\.nuget\\packages\\",
+        "outputPath": "D:\\cv\\bright house\\app\\api\\SAID-Validator-WebApi\\IDNumbers.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bbdnet1783\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

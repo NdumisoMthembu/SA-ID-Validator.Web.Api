@@ -1,0 +1,9 @@
+D:\cv\bright house\app\api\SAID-Validator-WebApi\IDNumbers.Models\bin\Debug\netcoreapp2.0\IDNumbers.Models.deps.json
+D:\cv\bright house\app\api\SAID-Validator-WebApi\IDNumbers.Models\bin\Debug\netcoreapp2.0\IDNumbers.Models.dll
+D:\cv\bright house\app\api\SAID-Validator-WebApi\IDNumbers.Models\bin\Debug\netcoreapp2.0\IDNumbers.Models.pdb
+D:\cv\bright house\app\api\SAID-Validator-WebApi\IDNumbers.Models\obj\Debug\netcoreapp2.0\IDNumbers.Models.csprojAssemblyReference.cache
+D:\cv\bright house\app\api\SAID-Validator-WebApi\IDNumbers.Models\obj\Debug\netcoreapp2.0\IDNumbers.Models.csproj.CoreCompileInputs.cache
+D:\cv\bright house\app\api\SAID-Validator-WebApi\IDNumbers.Models\obj\Debug\netcoreapp2.0\IDNumbers.Models.AssemblyInfoInputs.cache
+D:\cv\bright house\app\api\SAID-Validator-WebApi\IDNumbers.Models\obj\Debug\netcoreapp2.0\IDNumbers.Models.AssemblyInfo.cs
+D:\cv\bright house\app\api\SAID-Validator-WebApi\IDNumbers.Models\obj\Debug\netcoreapp2.0\IDNumbers.Models.dll
+D:\cv\bright house\app\api\SAID-Validator-WebApi\IDNumbers.Models\obj\Debug\netcoreapp2.0\IDNumbers.Models.pdb

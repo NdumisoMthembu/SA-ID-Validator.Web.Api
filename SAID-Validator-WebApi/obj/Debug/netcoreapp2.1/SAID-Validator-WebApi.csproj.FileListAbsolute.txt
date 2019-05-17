@@ -1,0 +1,14 @@
+D:\cv\bright house\app\api\SAID-Validator-WebApi\SAID-Validator-WebApi\bin\Debug\netcoreapp2.1\SAID-Validator-WebApi.deps.json
+D:\cv\bright house\app\api\SAID-Validator-WebApi\SAID-Validator-WebApi\bin\Debug\netcoreapp2.1\SAID-Validator-WebApi.runtimeconfig.json
+D:\cv\bright house\app\api\SAID-Validator-WebApi\SAID-Validator-WebApi\bin\Debug\netcoreapp2.1\SAID-Validator-WebApi.runtimeconfig.dev.json
+D:\cv\bright house\app\api\SAID-Validator-WebApi\SAID-Validator-WebApi\bin\Debug\netcoreapp2.1\SAID-Validator-WebApi.dll
+D:\cv\bright house\app\api\SAID-Validator-WebApi\SAID-Validator-WebApi\obj\Debug\netcoreapp2.1\SAID-Validator-WebApi.csprojAssemblyReference.cache
+D:\cv\bright house\app\api\SAID-Validator-WebApi\SAID-Validator-WebApi\obj\Debug\netcoreapp2.1\SAID-Validator-WebApi.csproj.CoreCompileInputs.cache
+D:\cv\bright house\app\api\SAID-Validator-WebApi\SAID-Validator-WebApi\obj\Debug\netcoreapp2.1\SAID-Validator-WebApi.RazorAssemblyInfo.cache
+D:\cv\bright house\app\api\SAID-Validator-WebApi\SAID-Validator-WebApi\obj\Debug\netcoreapp2.1\SAID-Validator-WebApi.RazorAssemblyInfo.cs
+D:\cv\bright house\app\api\SAID-Validator-WebApi\SAID-Validator-WebApi\obj\Debug\netcoreapp2.1\SAID-Validator-WebApi.AssemblyInfoInputs.cache
+D:\cv\bright house\app\api\SAID-Validator-WebApi\SAID-Validator-WebApi\obj\Debug\netcoreapp2.1\SAID-Validator-WebApi.AssemblyInfo.cs
+D:\cv\bright house\app\api\SAID-Validator-WebApi\SAID-Validator-WebApi\obj\Debug\netcoreapp2.1\SAID-Validator-WebApi.RazorTargetAssemblyInfo.cache
+D:\cv\bright house\app\api\SAID-Validator-WebApi\SAID-Validator-WebApi\bin\Debug\netcoreapp2.1\SAID-Validator-WebApi.pdb
+D:\cv\bright house\app\api\SAID-Validator-WebApi\SAID-Validator-WebApi\obj\Debug\netcoreapp2.1\SAID-Validator-WebApi.dll
+D:\cv\bright house\app\api\SAID-Validator-WebApi\SAID-Validator-WebApi\obj\Debug\netcoreapp2.1\SAID-Validator-WebApi.pdb
