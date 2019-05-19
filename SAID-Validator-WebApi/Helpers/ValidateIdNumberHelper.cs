@@ -55,7 +55,9 @@ namespace SAIDValidator.Web.Api.Helpers
             }
 
             int combineSums = evenPositionDoubledSum + oddSums;
-            if(Math.Abs(int.Parse(combineSums.ToString()[1].ToString()) - 10) != checkDigit)
+            
+
+            if (10 - (combineSums % 10) != checkDigit)
             {
                 reasons.Add("ID number vaildation did not meet requiremrnts");
                 return new ValidateResult(IdNumber,false, reasons);

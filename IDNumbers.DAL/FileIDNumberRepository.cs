@@ -42,8 +42,9 @@ namespace IDNumbers.DAL
             foreach (var item in valids.Split('\n'))
             {
                 var model = item.Split(',');
-                if(model.Length>1)
-                     validations.Add(new IDNumberDetails(model[0], model[1], model[2], model[3], "valid"));
+                //string IdentityNumber, string BirthDate, string Gender, string Citizenship, string Status
+                if (model.Length>2)
+                     validations.Add(new IDNumberDetails(model[0], model[2], model[3], model[4], "valid"));
             }
 
             foreach (var item in inValids.Split('\n'))

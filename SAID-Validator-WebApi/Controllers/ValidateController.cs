@@ -29,9 +29,9 @@ namespace SAID_Validator_WebApi.Controllers
   
         // POST: api/Validate
         [HttpPost]
-        public void Post([FromBody] List<string> idNumbers)
+        public IEnumerable<IDNumberDetails> Post([FromBody] List<string> idNumbers)
         {
-            if (idNumbers.Count ==0) return;
+            if (idNumbers.Count ==0) return null;
             List<IDNumberDetails> validIdNumbers = new List<IDNumberDetails>();
 
             foreach (var idNumber in idNumbers)
@@ -48,6 +48,7 @@ namespace SAID_Validator_WebApi.Controllers
             }
 
               _idNumberRepository.AddRange(validIdNumbers);
+            return Get();
         }
 
     }

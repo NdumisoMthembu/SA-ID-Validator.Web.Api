@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\review\\SA-ID-Validator.Web.Api\\IDNumber.Models\\IDNumber.Models.csproj": {}
+    "D:\\cv\\bright house\\app\\api\\SA-ID-Validator.Web.Api\\IDNumber.Models\\IDNumber.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\review\\SA-ID-Validator.Web.Api\\IDNumber.Models\\IDNumber.Models.csproj": {
+    "D:\\cv\\bright house\\app\\api\\SA-ID-Validator.Web.Api\\IDNumber.Models\\IDNumber.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\review\\SA-ID-Validator.Web.Api\\IDNumber.Models\\IDNumber.Models.csproj",
+        "projectUniqueName": "D:\\cv\\bright house\\app\\api\\SA-ID-Validator.Web.Api\\IDNumber.Models\\IDNumber.Models.csproj",
         "projectName": "IDNumber.Models",
-        "projectPath": "C:\\Users\\User\\source\\review\\SA-ID-Validator.Web.Api\\IDNumber.Models\\IDNumber.Models.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\review\\SA-ID-Validator.Web.Api\\IDNumber.Models\\obj\\",
+        "projectPath": "D:\\cv\\bright house\\app\\api\\SA-ID-Validator.Web.Api\\IDNumber.Models\\IDNumber.Models.csproj",
+        "packagesPath": "C:\\Users\\bbdnet1783\\.nuget\\packages\\",
+        "outputPath": "D:\\cv\\bright house\\app\\api\\SA-ID-Validator.Web.Api\\IDNumber.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bbdnet1783\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
